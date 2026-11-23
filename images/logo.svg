@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="EAM Real Estate Holdings">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1c4a50"/>
+      <stop offset="1" stop-color="#0b2024"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e3c27a"/>
+      <stop offset="1" stop-color="#b8924a"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#bg)"/>
+  <rect x="1" y="1" width="62" height="62" rx="14" fill="none" stroke="#c9a45c" stroke-opacity=".35" stroke-width="1.2"/>
+  <path d="M11 31 32 12.5 53 31" fill="none" stroke="url(#gold)" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="url(#gold)">
+    <rect x="21" y="34" width="5.2" height="19.4" rx="1.2"/>
+    <rect x="21" y="34" width="22" height="4.2" rx="1.2"/>
+    <rect x="21" y="41.6" width="16.5" height="4.2" rx="1.2"/>
+    <rect x="21" y="49.2" width="22" height="4.2" rx="1.2"/>
+  </g>
+</svg>
